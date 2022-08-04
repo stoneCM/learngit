@@ -1,2 +1,2 @@
 ironcow send one hi
-ironcow send two hi
+ironcow send update two hi
